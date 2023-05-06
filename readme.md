@@ -8,7 +8,7 @@ ChatVideo是基于ChatGPT的视频播放项目，可以将视频分割成不同�
 本项目是基于autocut的结果，使用ChatGPT进行功能扩展，所以请先安装autocut。
 
 
-[点击这里跳转到李沐老师的autocut项目](https://github.com/mli/autocut)
+[点击这里跳转到autocut项目](https://github.com/mli/autocut)
 
 
 ### 准备工作
@@ -20,7 +20,7 @@ ChatVideo是基于ChatGPT的视频播放项目，可以将视频分割成不同�
 ### 使用方法
 1. 克隆项目
 ```
-git clone xxxxxxxxxxxxxxxxxxxxxxxx
+git clone https://github.com/MeiPixel/ChatVideo.git
 cd ChatVideo
 ```
 
